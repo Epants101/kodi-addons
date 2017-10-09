@@ -1,0 +1,2 @@
+This software is free and for open-source use.
+This software is experimental and use at your own risk.
